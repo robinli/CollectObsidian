@@ -1,10 +1,6 @@
 name: 整理剪藏筆記
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'Clippings/**'
   workflow_dispatch:
 
 jobs:

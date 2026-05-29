@@ -1,0 +1,4 @@
+interface:
+  display_name: "Collect Obsidian Clippings"
+  short_description: "Organize CollectObsidian clipping notes"
+  default_prompt: "Organize pending Markdown files in CollectObsidian's Clippings directory according to the project skill, then report the processed files, destinations, and checks."
