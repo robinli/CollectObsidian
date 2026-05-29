@@ -22,5 +22,7 @@ tags:
 - [[2026-05-21 - Markdown 給 AI HTML 給人看]]
 - [[2026-05-22 - Anthropic 多晶片算力佈局]]
 - [[2026-05-27 - Codex 一手包辦辦公流程自動化]]
+- [[2026-05-27 - Taste Skill AI 前端設計技能]]
+- [[2026-05-27 - Codex 入門完整教學]]
 
 [[Resources/README|← 返回 Resources]] | [[00-Home|← 返回首頁]]

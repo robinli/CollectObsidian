@@ -23,6 +23,9 @@ SORT date DESC
 
 ## 最近整理
 
+- [[Resources/AI/2026-05-27 - Codex 入門完整教學]]
+- [[Resources/AI/2026-05-27 - Taste Skill AI 前端設計技能]]
+- [[Resources/Tools/2026-05-27 - CodeGraph 節省 AI 編碼 Token]]
 - [[Resources/AI/2026-05-27 - Codex 一手包辦辦公流程自動化]]
 - [[Resources/Tools/2026-05-23 - Docker 從入門到實踐]]
 - [[Resources/AI/2026-05-22 - Anthropic 多晶片算力佈局]]
@@ -32,7 +35,6 @@ SORT date DESC
 - [[Resources/AI/2026-05-20 - Microsoft Agent Framework 與 Skill 解耦]]
 - [[Resources/Tools/2026-05-20 - LINE 語音轉文字 Webhook 實作]]
 - [[Resources/Tools/2026-05-15 - html-anything Agent HTML 生成工具]]
-- [[Resources/Tools/2026-05-12 - Obsidian AI 側邊欄與語義搜尋]]
 
 ## 整理後參考資源
 
