@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。.md",
+                "file": "Resources/AI/2026-05-06 - 20 個 Claude 提示詞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。"
+              "title": "2026-05-06 - 20 個 Claude 提示詞"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。.md",
+                "file": "Resources/AI/2026-05-06 - 20 個 Claude 提示詞.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。"
+              "title": "Outline of 2026-05-06 - 20 個 Claude 提示詞"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +197,10 @@
   },
   "active": "21b27a2236691709",
   "lastOpenFiles": [
-    "Clippings/README.md",
+    "Clippings/R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。.md",
     "Clippings/R-2026-05-27 Leonxlnxtaste-skill Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop.md",
     "Clippings/R-2026-05-27 CodeGraph - AI 寫程式省80% Token 的好東東.md",
-    "Clippings/R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。.md",
+    "Clippings/README.md",
     "README.md",
     "00-Home.md",
     "AI/README.md",
