@@ -11,10 +11,14 @@
             "id": "21b27a2236691709",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resources/AI/2026-07-07 - Obsidian Codex 個人知識庫.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-07 - Obsidian Codex 個人知識庫"
             }
           }
         ]
