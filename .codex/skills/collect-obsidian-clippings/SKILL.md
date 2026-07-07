@@ -16,16 +16,13 @@ If any repository document conflicts with this skill, follow this skill first.
 Before editing any clipping, read:
 
 1. `references/collect-obsidian-rules.md`
-2. `.github/agents/knowledge.agent.md`
-3. `AI/README.md`
-4. `README.md`
-
-Use `.github/agents/knowledge.agent.md` for content normalization details, but use this skill's lightweight directory strategy when the files disagree.
+2. `AI/README.md`
+3. `README.md`
 
 ## Safety Rules
 
 - Run `git status --short` before reading or moving clippings.
-- If there are uncommitted changes, report the summary and create a pre-processing snapshot commit before processing.
+- If there are uncommitted changes, report the summary and create a pre-processing snapshot commit only after the user explicitly confirms it.
 - If the worktree is clean, explicitly say no pre-processing snapshot commit is needed.
 - Do not create `Notes/`, `Areas/`, `Archives/`, or PARA directories unless the user explicitly requests them.
 - Do not create subdirectories inside `Clippings/`.
@@ -55,7 +52,6 @@ Use `.github/agents/knowledge.agent.md` for content normalization details, but u
 
 | Mistake | Correction |
 |---|---|
-| Following the PARA layout from `.github/agents/knowledge.agent.md` | Use the lightweight project layout unless the user asks otherwise. |
 | Processing only the newest clipping | Process all non-README Markdown files under `Clippings/`. |
 | Committing after processing automatically | Stop after the report and wait for user confirmation. |
 | Replacing the original article with only a summary | Keep the important source context. |

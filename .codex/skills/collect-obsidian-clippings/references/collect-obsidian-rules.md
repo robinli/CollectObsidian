@@ -32,7 +32,7 @@ Run:
 git status --short
 ```
 
-If there are uncommitted changes, list a concise summary for the user, then create a pre-processing snapshot commit:
+If there are uncommitted changes, list a concise summary for the user. Create a pre-processing snapshot commit only after the user explicitly confirms it:
 
 ```text
 維護：整理剪藏前建立快照
@@ -71,8 +71,9 @@ For each clipping:
 5. Normalize Markdown structure.
 6. Rename to `YYYY-MM-DD - 中文標題.md`.
 7. Move the file out of `Clippings/`.
-8. Update `00-Home.md`.
-9. If the destination directory has `README.md`, update its listing.
+8. Note the destination README that must be updated, if the destination directory has `README.md`.
+
+After all clippings are processed, update `00-Home.md` once and update each affected destination `README.md` once.
 
 Preserve important source context. Do not remove the original article's useful content.
 
@@ -82,9 +83,9 @@ Preserve important source context. Do not remove the original article's useful c
 |---|---|
 | AI tools, AI workflows, model usage, prompt engineering | `Resources/AI/` |
 | Tool introductions, software reviews, CLI/app usage | `Resources/Tools/` |
-| General reference that does not fit existing categories | `Resources/` or a reasonable child under `Resources/` |
+| General reference that does not fit existing categories | `Resources/` |
 
-Prefer existing directories. Create a new `Resources/<Topic>/` only when it is clearly useful and consistent with the lightweight structure.
+Prefer existing directories: `Resources/AI/`, `Resources/Tools/`, or `Resources/`. Create a new `Resources/<Topic>/` only when the topic already has multiple related clippings, the category is clear and likely to remain useful, or the user explicitly requests that subdirectory.
 
 ## Frontmatter Schema
 
@@ -112,7 +113,7 @@ Rules:
 
 - `title`: concise Traditional Chinese title, preferably no more than 30 characters.
 - `date`: collection date in `YYYY-MM-DD`; if only `created` exists, migrate it to `date`.
-- `source`, `author`, `published`: preserve valid existing values; leave empty or mark `待確認` only when the source content supports uncertainty.
+- `source`, `author`, `published`: preserve valid existing values. Leave unknown values empty. Use `待確認` only when the source content explicitly indicates uncertainty.
 - `category`: destination path or category name.
 - `tags`: use namespace format; remove non-namespace tags unless they are intentionally retained by project convention.
 - `summary`: one Traditional Chinese sentence, preferably no more than 50 characters.
@@ -154,7 +155,7 @@ Use one H1 matching the frontmatter title.
 - 作者：[[作者名]]
 ```
 
-Use Traditional Chinese for generated content. Keep technical terms such as API, Git, TDD, CLI, and model names when appropriate.
+Use Traditional Chinese for generated content. Keep technical terms such as API, Git, TDD, CLI, and model names when appropriate. In `原文整理`, preserve the source structure and important context, remove noise, convert Simplified Chinese to Traditional Chinese when needed, and improve readability without expanding the clipping into a longer secondary article.
 
 ## Filename Rules
 
@@ -194,6 +195,12 @@ After processing, report:
 - frontmatter 是否已補齊
 - tags 是否使用 namespace 格式
 - 原文重要內容是否已保留
+
+## 效率追蹤
+
+- 處理的 clipping 數量
+- 更新的索引檔案
+- 是否讀取額外既有筆記或其他 repo 文件
 ```
 
 Do not create the post-processing commit until the user explicitly confirms.

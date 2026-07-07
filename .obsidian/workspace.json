@@ -11,14 +11,10 @@
             "id": "21b27a2236691709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/防止AI失忆，AI 记忆系统 3 步搭好.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "防止AI失忆，AI 记忆系统 3 步搭好"
+              "title": "New tab"
             }
           }
         ]
@@ -197,16 +193,23 @@
   },
   "active": "21b27a2236691709",
   "lastOpenFiles": [
+    "Resources/AI/2026-05-19-Tools-綜合摘要.md",
+    "Resources/AI/2026-05-09 - OpenAI 聊天完成與回應 API.md",
+    "Resources/AI/2026-05-07-Clippings-三篇剪藏綜合摘要.md",
+    "Resources/AI/2026-07-07 - AI 記憶系統三步驟.md",
+    "Resources/AI/2026-05-07 - Claude／GPT 反討好提示詞.md",
+    "Resources/AI/2026-05-06 - 給 AI 超能力？Superpowers 的設計與取捨.md",
+    "Resources/AI/2026-05-06 - 20 個 Claude 提示詞.md",
+    "Clippings/用 Obsidian + Codex，搭一个会主动思考的个人知识库.md",
+    "Resources/AI/2026-07-03 - Codex 個人站設計流程.md",
+    "Resources/AI/2026-05-27 - Taste Skill AI 前端設計技能.md",
     "Clippings/Claude Design 做不到的事，Open Design 開源全做到了.md",
     "Clippings/防止AI失忆，AI 记忆系统 3 步搭好.md",
     "Clippings/非设计背景，如何用Codex做高级感网站？.md",
-    "Resources/AI/2026-05-27 - Taste Skill AI 前端設計技能.md",
-    "Resources/AI/2026-05-06 - 給 AI 超能力？Superpowers 的設計與取捨.md",
     "Clippings/README.md",
     "Resources/README.md",
     "Resources/AI/2026-05-27 - Codex 入門完整教學.md",
     "Resources/Tools/2026-05-27 - CodeGraph 節省 AI 編碼 Token.md",
-    "Resources/AI/2026-05-06 - 20 個 Claude 提示詞.md",
     "Clippings/R-2026-05-27 从0到1带你速通Codex，我整理的终极保姆教程来了。.md",
     "Clippings/R-2026-05-27 Leonxlnxtaste-skill Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop.md",
     "Clippings/R-2026-05-27 CodeGraph - AI 寫程式省80% Token 的好東東.md",
@@ -216,13 +219,6 @@
     "conflict-files-obsidian-git.md",
     "Resources/Tools/2026-05-23 - Docker 從入門到實踐.md",
     "Resources/AI/2026-05-27 - Codex 一手包辦辦公流程自動化.md",
-    "Clippings/R-2026-05-23 Docker 從入門到實踐 - Docker 從入門到實踐.md",
-    "Clippings/R-2026-05-27 一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！.md",
-    "Clippings/R-2026-05-22 Anthropic想租用微軟Maia 200晶片群！扛著3,300億鎂帳單，不把算力全押Nvidia.md",
-    "Clippings/R-2026-05-21 (1) 愛好 AI 工程部落格 - 📌 善用 HTML 輸出 Markdown 給 AI 讀，HTML 給人類看Anthropic.md",
-    "Clippings/R-2026-05-22 Gemini 不肯上網？用 Google AI Studio 就對了-黑暗執行緒.md",
-    "Clippings/R-2026-05-20 robinliline-audio-text.md",
-    "Clippings/R-2026-05-20 (1) 最近準備在原本的 AI Agent 課程裡，完整的加上 Microsoft Agent... - ‧NET Walker 大內行者.md",
     "Clippings/Misc",
     "Clippings/Life",
     "Clippings/Learning",

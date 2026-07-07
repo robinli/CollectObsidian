@@ -23,6 +23,10 @@ SORT date DESC
 
 ## 最近整理
 
+- [[Resources/AI/2026-07-07 - Obsidian Codex 個人知識庫]]
+- [[Resources/AI/2026-07-07 - AI 記憶系統三步驟]]
+- [[Resources/AI/2026-07-03 - Codex 個人站設計流程]]
+- [[Resources/Tools/2026-06-16 - Open Design 本地設計生成]]
 - [[Resources/AI/2026-05-27 - Codex 入門完整教學]]
 - [[Resources/AI/2026-05-27 - Taste Skill AI 前端設計技能]]
 - [[Resources/Tools/2026-05-27 - CodeGraph 節省 AI 編碼 Token]]
