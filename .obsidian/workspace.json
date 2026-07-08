@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/AI/2026-07-07 - Obsidian Codex 個人知識庫.md",
+                "file": "Clippings/朱騏 - 最近我觀察到：那些真的會用 AI 的大神，靠的是一套自己的 AI 知識工作流。說白話，就是他平常怎麼跟 AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-07 - Obsidian Codex 個人知識庫"
+              "title": "朱騏 - 最近我觀察到：那些真的會用 AI 的大神，靠的是一套自己的 AI 知識工作流。說白話，就是他平常怎麼跟 AI"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "21b27a2236691709",
   "lastOpenFiles": [
+    "AI/README.md",
+    "Clippings/朱騏 - 最近我觀察到：那些真的會用 AI 的大神，靠的是一套自己的 AI 知識工作流。說白話，就是他平常怎麼跟 AI.md",
+    "Resources/AI/2026-07-07 - Obsidian Codex 個人知識庫.md",
     "Resources/AI/2026-05-19-Tools-綜合摘要.md",
     "Resources/AI/2026-05-09 - OpenAI 聊天完成與回應 API.md",
     "Resources/AI/2026-05-07-Clippings-三篇剪藏綜合摘要.md",
@@ -219,10 +222,7 @@
     "Clippings/R-2026-05-27 CodeGraph - AI 寫程式省80% Token 的好東東.md",
     "README.md",
     "00-Home.md",
-    "AI/README.md",
     "conflict-files-obsidian-git.md",
-    "Resources/Tools/2026-05-23 - Docker 從入門到實踐.md",
-    "Resources/AI/2026-05-27 - Codex 一手包辦辦公流程自動化.md",
     "Clippings/Misc",
     "Clippings/Life",
     "Clippings/Learning",
