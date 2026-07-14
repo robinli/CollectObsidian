@@ -23,6 +23,9 @@ SORT date DESC
 
 ## 最近整理
 
+- [[Resources/AI/2026-07-10 - LLM 知識庫整理提示詞]]
+- [[Resources/AI/2026-07-08 - AI 知識工作流十個原則]]
+
 - [[Resources/AI/2026-07-07 - Obsidian Codex 個人知識庫]]
 - [[Resources/AI/2026-07-07 - AI 記憶系統三步驟]]
 - [[Resources/AI/2026-07-03 - Codex 個人站設計流程]]
